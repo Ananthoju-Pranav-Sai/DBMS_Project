@@ -3,7 +3,7 @@ Simulation of a database of research papers.
 
 Contributors
 ------------
-- Pranav
-- Chirag 
-- Dishank
-- Yashas
+- Ananthoju Pranav Sai
+- Chirag Mehta
+- Dishank Jain
+- Yashas Tadikamalla
